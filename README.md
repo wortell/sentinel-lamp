@@ -50,13 +50,13 @@ The White Inner component acts as the guide for the flexible LED strip as well a
 
 <img src="images/ledlayout1.jpeg" alt="Path of the LED strip" width="600">
 
-When finished you should have around 100 LED's in your lamp, but it's worth counting at this point as you'll need the exact number later (depending how I did my sticking I've used anything from 99 to 105)
+When finished you should have around 100 LED's in your lamp, but it's worth counting at this point as you'll need the exact number later.
 
 #### Step 3 - Add the Reflector
 Next, feed the wires through the hole in the reflector. If you are using plugs to connect your strip and controller then you can do this at any time but if you are soldering the strip directly to the controller then you need to do it now.
 
 #### Step 4 - Solder LED Strip to D1 Mini
-Rather than use plugs, I solder my strip directly to my D1 Mini, but you can use connectors if you wish.  Connect the +5v and G lines to the corresponding pins on the D1 Mini and the data line to D4 (just above the +5v and G pins).
+Rather than use plugs, I solder my strip directly to my D1 Mini. Solder the red power wire to the 5V hole, the white ground wire to the G hole and the green data wire to the D4 hole.
 
 <img src="images/controllerholes.jpeg" alt="The wires from the LED strip soldered to the D1 Mini" width="600">
 
