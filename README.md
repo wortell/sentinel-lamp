@@ -37,8 +37,7 @@ In case you don't want to hang the lamp to the wall, a stand can be printed. The
 
 The point of the stand fits in the hole that otherwise would be used to hang the lamp to the wall. With stand, the lamp looks like:
 
-<img src="images/stand_front.png" alt="Sentinel lamp with stand - front" width="300">
-<img src="images/stand_back.png" alt="Sentinel lamp with stand - back" width="300">
+<img src="images/stand_front.png" alt="Sentinel lamp with stand - front" width="300"><img src="images/stand_back.png" alt="Sentinel lamp with stand - back" width="300">
 
 #### Step 1 - Install WLED
 
