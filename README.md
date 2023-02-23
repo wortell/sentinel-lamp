@@ -32,6 +32,14 @@ When constructed they snap-fit together as shown.
 
 When you have assembled your 3d printed parts you can begin contruction.
 
+In case you don't want to hang the lamp to the wall, a stand can be printed. The following component needs to be printed for the stand:
+- [Stand](models/sentinel-lamp-stand.stl)
+
+The point of the stand fits in the hole that otherwise would be used to hang the lamp to the wall. With stand, the lamp looks like:
+
+<img src="images/stand_front.png" alt="Sentinel lamp with stand - front" width="300">
+<img src="images/stand_back.png" alt="Sentinel lamp with stand - back" width="300">
+
 #### Step 1 - Install WLED
 
 First, you'll want to flash your D1 Mini device with [WLED](https://kno.wled.ge/) and then configure it to connect to your WiFi network. the [WLED project](https://kno.wled.ge/) is an open source firmware for many embedded devices that allow you to create beatiful LED displays and network them together. There are controller apps for iOS and Android and it is also fully compatible with the popular [Home Assistant](https://www.home-assistant.io/) software meaning that once built you can control your lamp from anywhere and build any number of automations so that it flashes when someone stars your GitHub repo, changes color when your build breaks or switches on and off with your office lights. 
@@ -74,6 +82,3 @@ That's it!  You are now done but I'd love to see pictures of your built and asse
 ### Credits
 
 Big thanks to [Martin Woodward](https://github.com/martinwoodward/octolamp) for the inspiration, and the initial work on the GitHub Octocat lamp, and his GitHub repositories, that we have used as the basis for our design and approach.
-
-
-
