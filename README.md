@@ -3,6 +3,9 @@ A 3D printable Sentinel wifi enabled smart light powered by [WLED](https://kno.w
 
 <img src="images/finishedlamp.jpeg" alt="Picture of a fully constructed Sentinel lamp" width="600" />
 
+### Instruction video:
+[![Instruction Video](https://img.youtube.com/vi/lIpt57k_Kus/0.jpg)](https://www.youtube.com/watch?v=lIpt57k_Kus)
+
 ### Components
 
 To build the Sentinel lamp, you'll need access to a 3D printer, soldering iron and the following components:
